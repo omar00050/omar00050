@@ -24,4 +24,3 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 ![Snake animation](https://github.com/omar00050/omar00050/blob/output/github-contribution-grid-snake.svg)
 
 [![.github/workflows/main.yml](https://github.com/omar00050/omar00050/actions/workflows/main.yml/badge.svg)](https://github.com/omar00050/omar00050/actions/workflows/main.yml)
-[![Generate Datas](https://github.com/omar00050/omar00050/actions/workflows/main.yml/badge.svg)](https://github.com/omar00050/omar00050/actions/workflows/main.yml)
