@@ -15,7 +15,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
     <a href="https://github.com/omar00050/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=omar00050&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
     </a>
-   <a href="https://github.com/YoussefWahba0"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YoussefWahba0&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" />
+   <a href="https://github.com/YoussefWahba0"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omar00050&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" />
     </a>
 </p>
 
