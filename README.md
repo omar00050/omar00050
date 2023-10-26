@@ -2,9 +2,7 @@
 
 Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love making Discord bots with JavaScript, whilst sometimes bit of web development.
 
-### Hello, my name is Omar Ali Farghaly
-
-### Hello, my name is Youssef nagibb <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+### Hello, my name is Omar Ali Farghaly <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 ---
 
