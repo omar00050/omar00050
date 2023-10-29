@@ -20,13 +20,6 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 <br />
 
 ### 🧰 Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
-<img align="left" alt="Node.js" width="30px" width="30px" src="https://user-images.githubusercontent.com/82738210/263499659-2e4442fc-5290-45a2-8f13-28555cf81fe7.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
-  
-
 <p>
       <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
       <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
