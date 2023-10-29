@@ -11,7 +11,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 - I am a  Full-Stack web developer from Egypt.
 - I specialize in Node.js and have a passion for building websites, particularly e-commerce platforms.
 - I have experience creating various types of websites and I'm confident in my ability to tackle any web development project.
-- Additionally, I'm interested in creating Discord bots and working within the Discord ecosystem.
+- Additionally, I'm interested in creating Discord bots full build and working within the Discord ecosystem , Tickets.
 
 <br />
 
@@ -25,8 +25,45 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
 <img align="left" alt="Node.js" width="30px" width="30px" src="https://user-images.githubusercontent.com/82738210/263499659-2e4442fc-5290-45a2-8f13-28555cf81fe7.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
+  
+
+<p>
+      <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+      <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+ 
+</p>
 
 <br />
+
+
+  ###🧰 Frameworks and Libraries 
+
+  <p>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+  </p>
+
+### 💻 Software and Tools
+
+  <p>
+      <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
+      <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+      <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
+      <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white">
+      <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white">
+      <img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white">
+      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  </p>
 
 <br />
 
@@ -45,7 +82,6 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omar00050&theme=nord_dark)
 
 <br> 
- 
 <hr>
  
 <br>
