@@ -43,13 +43,11 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 <br />
 
 
-  ###🧰 Frameworks and Libraries 
-
-  <p>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-  </p>
-
+### 🧰 Frameworks and Libraries 
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+      
+  
 ### 💻 Software and Tools
 
   <p>
