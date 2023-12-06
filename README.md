@@ -77,6 +77,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 <hr>
  
 <br>
+  <a href=#><img width="100%"  src="Status.svg"></a>
   
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
