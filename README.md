@@ -60,12 +60,16 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 <br />
 
 <!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
+### 🏆 GitHub Profile Trophy: 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=omar00050&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
 <!--   Stats -->
+### 📊 Wakatime Stats:
+<p>
+      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</p>
 ### 📊 GitHub Stats:
 ![Farghaly GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar00050&theme=nord&show_icons=true&count_private=true)
 
