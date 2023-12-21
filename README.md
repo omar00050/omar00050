@@ -68,7 +68,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 <!--   Stats -->
 ### 📊 Wakatime Stats:
 <p>
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+      <img alt="Wakatime" src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847.svg">
 </p>
 ### 📊 GitHub Stats:
 ![Farghaly GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar00050&theme=nord&show_icons=true&count_private=true)
