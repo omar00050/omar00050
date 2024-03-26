@@ -75,6 +75,8 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 ![Farghaly GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar00050&theme=nord&show_icons=true&count_private=true)
 
 ### 👨‍💻 Top Languages Used*:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omar00050&size_weight=0.5&count_weight=0.5) 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar00050&theme=city_lights) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omar00050&theme=city_lights)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omar00050&theme=city_lights)
