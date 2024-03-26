@@ -75,11 +75,11 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 ![Farghaly GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar00050&theme=nord&show_icons=true&count_private=true)
 
 ### 👨‍💻 Top Languages Used*:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar00050&theme=gotham) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omar00050&theme=gotham)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omar00050&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omar00050&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omar00050&theme=gotham&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar00050&theme=city_lights) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omar00050&theme=city_lights)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omar00050&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omar00050&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omar00050&theme=city_lights&utcOffset=8) 
 
 <br> 
 <hr>
