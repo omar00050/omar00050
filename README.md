@@ -74,9 +74,8 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 ![DevXor-v5]()
 
-![Farghaly Wakatime Stats](https://wakatime.com/share/@farghaly/87518129-a925-43e8-a72a-ff2e911ef978.png)
 
-<img style="width: 5%; float: left; margin-right: 20px;" src="[https://cdn.discordapp.com/attachments/965806495109369926/1109147334199214171/png_2dev_copy.png?ex=66101ef3&is=65fda9f3&hm=f15e0f117de652222626b28ecd5b2c6ed2771bf4ea864b5f093c1e5c168dbafa&](https://wakatime.com/share/@farghaly/87518129-a925-43e8-a72a-ff2e911ef978.png)" alt="FARGHALY">
+<img style="width: 5%; float: left; margin-right: 20px;" src="https://wakatime.com/share/@farghaly/87518129-a925-43e8-a72a-ff2e911ef978.png" alt="FARGHALY">
 
 
 ### 📊 GitHub Stats:
