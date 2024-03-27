@@ -67,8 +67,8 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 <!--   Stats -->
 ### 📊 Wakatime Stats:
+![Farghaly Wakatime Stats](https://wakatime.com/share/@farghaly/31217ab6-94a5-446a-90ad-f2cabcda2268.svg)
 <p>
-<embed src="https://wakatime.com/share/@farghaly/31217ab6-94a5-446a-90ad-f2cabcda2268.svg"></embed>
       <img alt="Wakatime" src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847.svg">
 </p>
 
