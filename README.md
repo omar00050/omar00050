@@ -81,7 +81,11 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 
 ### 📊 GitHub Stats:
-![Farghaly GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar00050&theme=nord&show_icons=true&count_private=true)
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar00050&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
+</br>
 
 ### 👨‍💻 Top Languages Used*:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omar00050&size_weight=0.5&count_weight=0.5) 
