@@ -99,7 +99,6 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 <p align="center">
 <a href="https://www.instagram.com/farghaly00050/"><img alt="Instagram" src="https://img.shields.io/badge/-farghaly00050-blue?style=flat-square&logo=instagram"></a>
 <a href="https://twitter.com/FarghOmar"><img alt="twitter" src="https://img.shields.io/badge/-@FarghOmar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
- <a href="https://twitter.com/FarghOmar"><img alt="twitter" src="https://img.shields.io/twitter/follow/PluckyPrecious?label=@FarghOmar&style=sociale"></a>
 
 </p>
 
