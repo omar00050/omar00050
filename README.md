@@ -46,6 +46,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
   <p>
       <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
+      <img alt="Adobe-Photoshop" src="https://img.shields.io/badge/-PhotoShop-071D34?style=square&logo=Adobe-Photoshop&logoColor=54A7F8">
       <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
       <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
