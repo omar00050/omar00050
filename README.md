@@ -71,7 +71,9 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
       <img alt="Wakatime" src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847.svg">
       <img alt="DevXor-v5" src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847.svg">
 </p>
-[![DevXor-v5](https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847/project/018e68da-95f4-4740-8559-c78f2846da3d.svg)](https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847/project/018e68da-95f4-4740-8559-c78f2846da3d)
+
+![DevXor-v5](https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847/project/018e68da-95f4-4740-8559-c78f2846da3d.svg)
+
 ![Farghaly Wakatime Stats](https://wakatime.com/share/@farghaly/87518129-a925-43e8-a72a-ff2e911ef978.png)
 
 <img style="width: 5%; float: left; margin-right: 20px;" src="[https://cdn.discordapp.com/attachments/965806495109369926/1109147334199214171/png_2dev_copy.png?ex=66101ef3&is=65fda9f3&hm=f15e0f117de652222626b28ecd5b2c6ed2771bf4ea864b5f093c1e5c168dbafa&](https://wakatime.com/share/@farghaly/87518129-a925-43e8-a72a-ff2e911ef978.png)" alt="FARGHALY">
