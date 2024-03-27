@@ -68,6 +68,8 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 <!--   Stats -->
 ### 📊 Wakatime Stats:
+![Farghaly GitHub Stats](https://github-readme-stats.vercel.app/api?username=omar00050&theme=nord&show_icons=true&count_private=true)
+
 <p>
       <img alt="Wakatime" src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847.svg">
 </p>
