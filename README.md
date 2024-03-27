@@ -95,6 +95,11 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 <hr>
  
 
+<h3> 🤝🏻 &nbsp;Social Media </h3>
+<p align="center">
+[![Twitter Badge](https://img.shields.io/badge/-@KunalRaghav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Kunal_Raghav_)](https://twitter.com/_Kunal_Raghav_)
+</p>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/omar-farghaly-b2a311292/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omar%20Farghaly-blue?style=flat-square&logo=linkedin"></a>
