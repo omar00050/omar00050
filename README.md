@@ -6,7 +6,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 ---
 <a href="https://discord.com/channels/@me/768414261231747093"> <img src="https://discord.c99.nl/widget/theme-3/768414261231747093.png
-" alt="contact mee">
+" alt="contact mee"></a>
 
 <br />
 
