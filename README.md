@@ -5,8 +5,10 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 ### Hello, my name is Omar Ali Farghaly <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
 
 ---
+<p>
 <a href="https://discord.com/channels/@me/768414261231747093"> <img src="https://discord.c99.nl/widget/theme-3/768414261231747093.png
-" alt="contact mee"></a>
+" alt="contact mee">
+<p>
 
 <br />
 
