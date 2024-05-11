@@ -16,8 +16,8 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 - I specialize in Node.js and have a passion for building websites, particularly e-commerce platforms.
 - I have experience creating various types of websites and I'm confident in my ability to tackle any web development project.
 - Additionally, I'm interested in creating Discord bots full build and working within the Discord ecosystem , Tickets.
-
 <br />
+- [![GitHub followers](https://img.shields.io/github/followers/omar00050.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/omar00050?tab=followers)
 
 ---
 
