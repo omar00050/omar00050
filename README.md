@@ -26,7 +26,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 <br />
 
 ### 🧰 Languages and Tools:
-[![My Languages](https://skillicons.dev/icons?i=js,ts,nodejs,cs,mysql,sqlite,markdown)]()
+[![My Languages](https://skillicons.dev/icons?i=js,ts,nodejs,cs,mysql,sqlite,powershell,postman,linux,vscode,git,github,markdown)]()
 <!--
  <p>
       <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
@@ -45,7 +45,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 
 ### 🧰 Frameworks and Libraries 
-[![My Languages](https://skillicons.dev/icons?i=next,react,bootstrap,express,mongo,prisma)]()
+[![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,next,react,express,sequelize,mongo,prisma,)]()
 
 <!--
   <p>
@@ -54,6 +54,10 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
   </p>
   -->
 
+### 💻 Programs Skills 
+[![My Languages](https://skillicons.dev/icons?i=stackoverflow,replit,photoshop,premiere,discord,discordbots)]()
+
+<!--
 ### 💻 Software and Tools
 
   <p>
@@ -69,6 +73,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
       <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
   </p>
+  -->
 
 <br />
 
