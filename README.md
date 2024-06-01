@@ -2,7 +2,8 @@
 
 Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love making Discord bots with JavaScript, whilst sometimes bit of web development.
 
-### Hello, my name is Omar Ali Farghaly <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+### ![farghaly Text](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=5B3DFC&width=435&lines=Hi+there%2C+I%27m+Omar+Farghaly+%F0%9F%91%8B) 
+<!-- <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px"> -->
 
 ---
 [![Discord Presence](https://lanyard.cnrad.dev/api/768414261231747093?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=Hi%20im%20Omar)](https://discord.com/users/768414261231747093)
