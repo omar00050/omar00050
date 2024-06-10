@@ -6,11 +6,14 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 <!-- <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px"> -->
 
 ---
+<div align="center">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/768414261231747093?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=Hi%20im%20Omar)](https://discord.com/users/768414261231747093)
 <p>
    <a href="https://discord.com/channels/@me/768414261231747093"> <img src="https://discord.c99.nl/widget/theme-3/768414261231747093.png" alt="contact mee"></a>
 <p>
 
+</div>
 <br />
 
 - I am a  Full-Stack web developer from Egypt.
