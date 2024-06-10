@@ -28,8 +28,13 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 <br />
 
-### 🧰 Languages and Tools:
+### 🧰 Languages and Tools
+
+<div align="center">
+
 [![My Languages](https://skillicons.dev/icons?i=js,ts,nodejs,cs,mysql,sqlite,powershell,postman,linux,vscode,git,github,markdown)]()
+
+</div>
 <!--
  <p>
       <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
@@ -48,7 +53,12 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 
 ### 🧰 Frameworks and Libraries 
+
+<div align="center">
+
 [![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,next,react,express,sequelize,mongo,prisma,)]()
+
+</div>
 
 <!--
   <p>
@@ -58,7 +68,12 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
   -->
 
 ### 💻 Programs Skills 
+
+<div align="center">
+
 [![My Languages](https://skillicons.dev/icons?i=stackoverflow,replit,photoshop,premiere,discord,discordbots)]()
+
+</div>
 
 <!--
 ### 💻 Software and Tools
