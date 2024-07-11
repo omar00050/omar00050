@@ -102,18 +102,14 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 </a>
 
 <!--   Stats -->
-### 📊 Wakatime Stats:
+### 📊 Wakatime Stats: <img alt="Wakatime" src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847.svg">
 
-<p>
-      <img alt="Wakatime" src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847.svg">
-</p>
-<img style="width: 50%;" src="https://wakatime.com/share/@farghaly/87518129-a925-43e8-a72a-ff2e911ef978.png" alt="FARGHALY">
+![Fraghaly wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=farghaly&theme=transparent&layout=compact)
+
+<!-- <img style="width: 50%;" src="https://wakatime.com/share/@farghaly/87518129-a925-43e8-a72a-ff2e911ef978.png" alt="FARGHALY"> -->
 
 ## Projects 
 ### DevXor-v5 : <img alt="DevXor-v5" src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847/project/018e68da-95f4-4740-8559-c78f2846da3d.svg">
-
-
-
 
 
 ### 📊 GitHub Stats:
@@ -124,7 +120,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 </br>
 
 ### 👨‍💻 Top Languages Used*:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omar00050&size_weight=0.5&count_weight=0.5) 
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=omar00050&size_weight=0.5&count_weight=0.5) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar00050&theme=city_lights) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omar00050&theme=city_lights)
