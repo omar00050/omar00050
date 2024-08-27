@@ -32,7 +32,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 <div align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=js,ts,nodejs,cs,php,powershell,maven,linux,ubuntu,git,github,npm,markdown)]()
+[![My Languages](https://skillicons.dev/icons?i=js,ts,nodejs,npm,cs,php,powershell,maven,nginx,linux,ubuntu,git,github,markdown)]()
 
 </div>
 <!--
@@ -56,7 +56,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 <div align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,next,react,express,mysql,sqlite,sequelize,mongo,prisma)]()
+[![My Languages](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,next,react,webpack,express,mysql,sqlite,sequelize,mongo,prisma)]()
 
 </div>
 
@@ -71,7 +71,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 <div align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=visualstudio,vscode,postman,stackoverflow,codepen,replit,photoshop,premiere,discord,discordbots)]()
+[![My Languages](https://skillicons.dev/icons?i=visualstudio,vscode,gcp,cloudflare,postman,stackoverflow,codepen,replit,photoshop,premiere,discord,discordbots)]()
 
 </div>
 
