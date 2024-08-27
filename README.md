@@ -135,7 +135,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=farghaly&theme=react&layout=compact" alt="omar00050" />
     </a>
     <a href="https://github.com/omar00050" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=omar00050&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=300 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omar00050&theme=react&utcOffset=8" />
     </a>
   </div>
   
