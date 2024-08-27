@@ -104,29 +104,55 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 <!--   Stats -->
 ### 📊 Wakatime Stats: <img alt="Wakatime" src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847.svg">
 
-![Fraghaly wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=farghaly&theme=transparent&layout=compact)
+<!-- ![Fraghaly wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=farghaly&theme=transparent&layout=compact)-->
 
 <!-- <img style="width: 50%;" src="https://wakatime.com/share/@farghaly/87518129-a925-43e8-a72a-ff2e911ef978.png" alt="FARGHALY"> -->
 
-## Projects 
-### DevXor-v5 : <img alt="DevXor-v5" src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847/project/018e68da-95f4-4740-8559-c78f2846da3d.svg">
+## Projects  DevXor-v5 : <img alt="DevXor-v5" src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847/project/018e68da-95f4-4740-8559-c78f2846da3d.svg">
 
 
-### 📊 GitHub Stats:
+
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/omar00050" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=omar00050&theme=react&border=61dafb&hide_border=true" alt="omar00050" />
+    </a>
+    <a href="https://github.com/omar00050" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=omar00050&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/omar00050">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar00050&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+  <div align=center>
+    <a href="https://github.com/omar00050" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=farghaly&theme=react&layout=compact" alt="omar00050" />
+    </a>
+    <a href="https://github.com/omar00050" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=omar00050&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar00050&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar00050&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar00050&theme=city_lights" width="100%"/>
+</p>
 
-</br>
 
-### 👨‍💻 Top Languages Used*:
+
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=omar00050&size_weight=0.5&count_weight=0.5) -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar00050&theme=city_lights) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omar00050&theme=city_lights)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar00050&theme=city_lights) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omar00050&theme=city_lights)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omar00050&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omar00050&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omar00050&theme=city_lights&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omar00050&theme=city_lights&utcOffset=8) -->
 
 <br> 
 <hr>
