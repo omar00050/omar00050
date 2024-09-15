@@ -71,7 +71,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 <div align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=visualstudio,vscode,postman,stackoverflow,codepen,replit,gcp,cloudflare,photoshop,premiere,discord,discordbots)]()
+[![My Languages](https://skillicons.dev/icons?i=visualstudio,vscode,postman,stackoverflow,codepen,replit,gcp,cloudflare,photoshop,premiere,discord,discordbots,windows)]()
 
 </div>
 
