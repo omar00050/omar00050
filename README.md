@@ -32,7 +32,7 @@ Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love mak
 
 <div align="center">
 
-[![My Languages](https://skillicons.dev/icons?i=js,ts,nodejs,npm,cs,php,powershell,maven,nginx,linux,ubuntu,git,github,markdown)]()
+[![My Languages](https://skillicons.dev/icons?i=js,ts,nodejs,npm,cs,php,powershell,maven,nginx,linux,ubuntu,git,github,githubactions,markdown)]()
 
 </div>
 <!--
