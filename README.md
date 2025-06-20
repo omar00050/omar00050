@@ -1,8 +1,10 @@
 # ABO FARGHALY
 
-Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love making Discord bots with JavaScript, whilst sometimes bit of web development.
-
-### ![farghaly Text](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=5B3DFC&width=435&lines=Hi+there%2C+I%27m+Omar+Farghaly+%F0%9F%91%8B) 
+Hey there, I'm Omar, a 22 year old software developer from the Egypt...
+<a href="https://github.com/omar00050">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=f22b43&lines=Hello!;+I'm+Omar+Farghaly!;+an+software+developer;+From+Egypt" />
+</a>
+<!-- ### ![farghaly Text](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=5B3DFC&width=435&lines=Hi+there%2C+I%27m+Omar+Farghaly+%F0%9F%91%8B) -->
 <!-- <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px"> -->
 
 ---
