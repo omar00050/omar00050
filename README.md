@@ -181,7 +181,7 @@ Hey there, I'm Omar, a 22 year old software developer from the Egypt...
 </div>
     
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/omar00050/count.svg" />  
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fomar00050&labelColor=%23d9e3f0&countColor=%23697689&style=flat" />  
 </p>
    
 ---
