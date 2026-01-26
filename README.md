@@ -11,9 +11,9 @@ Hey there, I'm Omar, a 22 year old software developer from the Egypt...
 <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/768414261231747093?theme=dark&idleMessage=Hi%20Im%20Omar&showDisplayName=true&borderRadius=30px)](https://discord.com/users/768414261231747093)
-<p>
-   <a href="https://discord.com/channels/@me/768414261231747093"> <img src="https://discord.c99.nl/widget/theme-3/768414261231747093.png" alt="contact mee"></a>
-<p>
+<!-- <p> -->
+   <!-- <a href="https://discord.com/channels/@me/768414261231747093"> <img src="https://discord.c99.nl/widget/theme-3/768414261231747093.png" alt="contact mee"></a> -->
+<!-- <p> -->
 
 </div>
 <br />
