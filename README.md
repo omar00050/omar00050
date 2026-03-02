@@ -1,6 +1,6 @@
 # ABO FARGHALY
 
-Hey there, I'm Omar, a 22 year old software developer from the Egypt...
+Hey there, I'm Omar, a 23 year old software developer from the Egypt...
 <a href="https://github.com/omar00050">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=f22b43&lines=Hello!;+I'm+Omar+Farghaly!;+an+software+developer;+From+Egypt" />
 </a>
