@@ -2,7 +2,7 @@ name: Recent Activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "0 */6 * * *"    # every 6 hours
   workflow_dispatch:
   push:
     branches: [main]
@@ -16,10 +16,63 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update Recent Activity section in README
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build Recent Activity section
+        uses: actions/github-script@v7
         with:
-          COMMIT_MSG: "chore: update recent activity"
-          MAX_LINES: 6
+          script: |
+            const fs = require('fs');
+            const user = context.repo.owner;
+            const profileRepo = `${user}/${user}`;
+            const MAX = 6;
+
+            const { data: events } = await github.rest.activity.listPublicEventsForUser({
+              username: user, per_page: 100,
+            });
+
+            const link = (r) => `[${r}](https://github.com/${r})`;
+            const date = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+
+            const fmt = {
+              PushEvent:        (e) => `⬆️ Pushed to ${link(e.repo.name)}`,
+              CreateEvent:      (e) => e.payload.ref_type === 'repository'
+                                  ? `🆕 Created repository ${link(e.repo.name)}`
+                                  : `🌿 Created ${e.payload.ref_type} \`${e.payload.ref}\` in ${link(e.repo.name)}`,
+              ForkEvent:        (e) => `🍴 Forked ${link(e.repo.name)}`,
+              WatchEvent:       (e) => `⭐ Starred ${link(e.repo.name)}`,
+              PublicEvent:      (e) => `🌍 Made ${link(e.repo.name)} public`,
+              ReleaseEvent:     (e) => `🚀 Released [${e.payload.release.tag_name}](${e.payload.release.html_url}) in ${link(e.repo.name)}`,
+              IssuesEvent:      (e) => `❗ ${e.payload.action[0].toUpperCase() + e.payload.action.slice(1)} issue [#${e.payload.issue.number}](${e.payload.issue.html_url}) in ${link(e.repo.name)}`,
+              IssueCommentEvent:(e) => `🗣 Commented on [#${e.payload.issue.number}](${e.payload.comment.html_url}) in ${link(e.repo.name)}`,
+              PullRequestEvent: (e) => `💪 ${e.payload.action[0].toUpperCase() + e.payload.action.slice(1)} PR [#${e.payload.number ?? e.payload.pull_request.number}](https://github.com/${e.repo.name}/pull/${e.payload.number ?? e.payload.pull_request.number}) in ${link(e.repo.name)}`,
+            };
+
+            const lines = [];
+            let last = '';
+            for (const e of events) {
+              if (!fmt[e.type] || e.repo.name === profileRepo) continue;
+              let text;
+              try { text = fmt[e.type](e); } catch { continue; }
+              if (text === last) continue;          // skip repeated identical lines
+              last = text;
+              lines.push(`${lines.length + 1}. ${text} <sub>· ${date(e.created_at)}</sub>`);
+              if (lines.length >= MAX) break;
+            }
+            if (!lines.length) lines.push('_No recent public activity._');
+
+            const readme = fs.readFileSync('README.md', 'utf8');
+            const re = /(<!--START_SECTION:activity-->)[\s\S]*?(<!--END_SECTION:activity-->)/;
+            if (!re.test(readme)) { core.setFailed('Activity markers not found in README.md'); return; }
+            const updated = readme.replace(re, `$1\n${lines.join('\n')}\n$2`);
+            if (updated === readme) { core.info('No changes'); return; }
+            fs.writeFileSync('README.md', updated);
+            core.info(`Wrote ${lines.length} lines`);
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          if git commit -m "chore: update recent activity"; then
+            git pull --rebase origin main
+            git push
+          fi
