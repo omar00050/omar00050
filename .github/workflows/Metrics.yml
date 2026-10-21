@@ -14,13 +14,16 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate achievements card
+      - name: Generate coding habits card
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.achievements.svg
+          filename: metrics.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          plugin_achievements_limit: 0
+          config_timezone: Africa/Cairo
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_trim: yes
