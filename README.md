@@ -126,10 +126,10 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/omar00050/REPO_NAME_1">
+  <a href="https://github.com/DevXor-Team/DevXorHandler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=omar00050&repo=REPO_NAME_1&theme=react&hide_border=true&bg_color=20232a&title_color=f22b43" alt="Project 1" />
   </a>
-  <a href="https://github.com/omar00050/REPO_NAME_2">
+  <a href="https://github.com/omar00050/quran_radio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=omar00050&repo=REPO_NAME_2&theme=react&hide_border=true&bg_color=20232a&title_color=f22b43" alt="Project 2" />
   </a>
 </p>
