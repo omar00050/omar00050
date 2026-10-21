@@ -103,6 +103,58 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 <h3 align="center">📈 My Coding Habits</h3>
 
 <!--START_SECTION:habits-->
+**🐱 My GitHub Data** 
+
+> 📦 365.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 364 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 22 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+🌆 Daytime                91 commits          ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+🌃 Evening                115 commits         ████████░░░░░░░░░░░░░░░░░   30.67 % 
+🌙 Night                  76 commits          █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   90 commits          ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Tuesday                  56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Wednesday                86 commits          ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Thursday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Friday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Saturday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Sunday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Batchfile                2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+
+ Last Updated on 21/10/2026 17:47:55 UTC
 <!--END_SECTION:habits-->
 
 ---
