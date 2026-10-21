@@ -101,9 +101,9 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 </table>
 
 <h3 align="center">📈 My Coding Habits</h3>
-<p align="center">
-  <img src="./metrics.habits.svg" alt="Coding Habits" />
-</p>
+
+<!--START_SECTION:habits-->
+<!--END_SECTION:habits-->
 
 ---
 
@@ -139,15 +139,6 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 ## ⏱️ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 13 October 2026 - To: 20 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -182,11 +173,6 @@ No activity tracked
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [MinaSaad1/pbi-cli](https://github.com/MinaSaad1/pbi-cli) <sub>· Oct 15</sub>
-2. ⭐ Starred [good-db/good.db](https://github.com/good-db/good.db) <sub>· Oct 9</sub>
-3. ⭐ Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) <sub>· Oct 6</sub>
-4. 🍴 Forked [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) <sub>· Sep 26</sub>
-5. 🍴 Forked [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) <sub>· Sep 26</sub>
 <!--END_SECTION:activity-->
 
 ---
