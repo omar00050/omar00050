@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232a,100:f22b43&height=180&section=header&text=Omar%20Farghaly&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Node.js%20%E2%80%A2%20Discord%20Bots&descAlignY=55&descSize=16" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232a,100:f22b43&height=180&section=header&text=Omar%20Farghaly&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Microservices&descAlignY=55&descSize=16" alt="Header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/omar00050">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=3500&pause=800&color=F22B43&lines=Hello!+%F0%9F%91%8B;I'm+Omar+Farghaly;Full-Stack+Web+Developer;Node.js+%26+Discord+Bots+Enthusiast;Based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=3500&pause=800&color=F22B43&lines=Hello!+%F0%9F%91%8B;I'm+Omar+Farghaly;Full-Stack+Web+Developer;Backend+Systems+%26+Microservices;Building+Scalable+Web+Platforms;Based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,13 +28,13 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**.
+I'm **Omar**, a **23-year-old Full-Stack Developer** from **Egypt 🇪🇬** focused on **backend systems and scalable web platforms**.
 
-- 🚀 I specialize in **Node.js** and love building fast, scalable web apps — especially **e-commerce platforms**.
-- 🌐 I've built many kinds of websites, from landing pages to full dashboards and online stores.
-- 🤖 I build **Discord bots** end-to-end — ticket systems, moderation, dashboards and more.
+- 🏗️ I design and build **backend systems & microservices** with **Node.js** — clean architecture, APIs and services that scale.
+- 🌐 I build **full web platforms** end-to-end, from dashboards and internal systems to **e-commerce stores**.
 - 🔭 Currently working on **DevXor-v5** &nbsp;<img src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847/project/018e68da-95f4-4740-8559-c78f2846da3d.svg" alt="DevXor-v5 time" />
-- 💬 Ask me about **Node.js, Express, Next.js, Discord.js**.
+- 🤖 I still build **Discord bots** and automation tools on the side.
+- 💬 Ask me about **Node.js, system design, microservices, REST APIs, Next.js**.
 - 📫 Reach me at **omar@farghaly.dev**
 
 </td>
@@ -103,58 +103,6 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 <h3 align="center">📈 My Coding Habits</h3>
 
 <!--START_SECTION:habits-->
-**🐱 My GitHub Data** 
-
-> 📦 365.7 kB Used in GitHub's Storage 
- > 
-> 🏆 364 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 22 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-🌆 Daytime                91 commits          ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-🌃 Evening                115 commits         ████████░░░░░░░░░░░░░░░░░   30.67 % 
-🌙 Night                  76 commits          █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   90 commits          ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Tuesday                  56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Wednesday                86 commits          ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-Thursday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Friday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Saturday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Sunday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Cairo
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Batchfile                2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-
-
-
-
- Last Updated on 21/10/2026 17:56:12 UTC
 <!--END_SECTION:habits-->
 
 ---
@@ -171,19 +119,20 @@ Batchfile                2 repos             ████░░░░░░░�
 
 ---
 
-## 🤖 Discord Bots I Build
+## 🛠️ What I Build
 
 <table align="center">
 <tr>
-<td align="center" width="25%"><h3>🎫</h3><b>Ticket Systems</b><br/><sub>Panels, transcripts, categories & staff roles</sub></td>
-<td align="center" width="25%"><h3>🛡️</h3><b>Moderation</b><br/><sub>Auto-mod, logs, warns & anti-spam</sub></td>
-<td align="center" width="25%"><h3>📊</h3><b>Web Dashboards</b><br/><sub>Manage your bot from the browser</sub></td>
-<td align="center" width="25%"><h3>⚙️</h3><b>Custom Systems</b><br/><sub>Economy, levels, giveaways & more</sub></td>
+<td align="center" width="25%"><h3>🏗️</h3><b>Backend Systems</b><br/><sub>Robust APIs, auth, queues & business logic built to scale</sub></td>
+<td align="center" width="25%"><h3>🧩</h3><b>Microservices</b><br/><sub>Independent services that communicate cleanly and deploy separately</sub></td>
+<td align="center" width="25%"><h3>🌐</h3><b>Web Platforms</b><br/><sub>Full-stack apps, dashboards & e-commerce stores</sub></td>
+<td align="center" width="25%"><h3>🤖</h3><b>Discord Bots</b><br/><sub>Tickets, moderation, dashboards & custom automation</sub></td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://discord.com/users/768414261231747093"><img src="https://img.shields.io/badge/Need_a_bot%3F-Message_me_on_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=20232a" alt="Hire me for a Discord bot" /></a>
+  <a href="mailto:omar@farghaly.dev"><img src="https://img.shields.io/badge/Have_a_project%3F-Let's_talk-f22b43?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=20232a" alt="Have a project? Let's talk" /></a>
+  <a href="https://discord.com/users/768414261231747093"><img src="https://img.shields.io/badge/Need_a_bot%3F-Message_me_on_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=20232a" alt="Need a bot? Message me on Discord" /></a>
 </p>
 
 ---
@@ -191,15 +140,6 @@ Batchfile                2 repos             ████░░░░░░░�
 ## ⏱️ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 13 October 2026 - To: 20 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -234,11 +174,6 @@ No activity tracked
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [MinaSaad1/pbi-cli](https://github.com/MinaSaad1/pbi-cli) <sub>· Oct 15</sub>
-2. ⭐ Starred [good-db/good.db](https://github.com/good-db/good.db) <sub>· Oct 9</sub>
-3. ⭐ Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) <sub>· Oct 6</sub>
-4. 🍴 Forked [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) <sub>· Sep 26</sub>
-5. 🍴 Forked [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) <sub>· Sep 26</sub>
 <!--END_SECTION:activity-->
 
 ---
