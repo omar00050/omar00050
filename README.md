@@ -139,6 +139,15 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 ## ⏱️ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 October 2026 - To: 20 October 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
