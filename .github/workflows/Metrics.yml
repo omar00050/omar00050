@@ -27,3 +27,4 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_trim: yes
+          plugins_errors_fatal: yes
