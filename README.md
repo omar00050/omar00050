@@ -100,9 +100,9 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 </tr>
 </table>
 
-<h3 align="center">🏆 Achievements</h3>
+<h3 align="center">📈 My Coding Habits</h3>
 <p align="center">
-  <img src="./metrics.achievements.svg" alt="GitHub Achievements" />
+  <img src="./metrics.habits.svg" alt="Coding Habits" />
 </p>
 
 ---
