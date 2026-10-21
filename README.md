@@ -227,7 +227,7 @@ No activity tracked
   <a href="https://www.linkedin.com/in/abofarghaly"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:omar@farghaly.dev"><img src="https://img.shields.io/badge/Email-f22b43?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://discord.com/users/768414261231747093"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://twitter.com/FarghOmar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://twitter.com/farghaly00050"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/farghaly00050/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
