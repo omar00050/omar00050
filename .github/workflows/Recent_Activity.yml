@@ -1,8 +1,8 @@
-name: Recent Activity
+name: Metrics
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "0 0 * * *"      # once a day
   workflow_dispatch:
   push:
     branches: [main]
@@ -11,15 +11,16 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Update Recent Activity section in README
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate achievements card
+        uses: lowlighter/metrics@latest
         with:
-          COMMIT_MSG: "chore: update recent activity"
-          MAX_LINES: 6
+          filename: metrics.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 0
