@@ -15,6 +15,11 @@
   <a href="https://wakatime.com/@farghaly"><img src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847.svg?style=for-the-badge" alt="Wakatime" /></a>
 </p>
 
+<p align="center">
+  <a href="https://farghaly.dev"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Visit_My_Portfolio-farghaly.dev-f22b43?style=for-the-badge&labelColor=20232a" alt="Portfolio" /></a>
+  <a href="mailto:omar@farghaly.dev"><img src="https://img.shields.io/badge/%E2%9C%85_Available_for-Freelance-2ea44f?style=for-the-badge&labelColor=20232a" alt="Available for freelance" /></a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -30,7 +35,7 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 - 🤖 I build **Discord bots** end-to-end — ticket systems, moderation, dashboards and more.
 - 🔭 Currently working on **DevXor-v5** &nbsp;<img src="https://wakatime.com/badge/user/b05a5b60-534c-4919-b188-4675094d2847/project/018e68da-95f4-4740-8559-c78f2846da3d.svg" alt="DevXor-v5 time" />
 - 💬 Ask me about **Node.js, Express, Next.js, Discord.js**.
-- 📫 Reach me at **omar.aly00050@outlook.com**
+- 📫 Reach me at **omar@farghaly.dev**
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -95,19 +100,10 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 </tr>
 </table>
 
+<h3 align="center">🏆 Achievements</h3>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omar00050&theme=react-dark&bg_color=20232a&color=61dafb&line=f22b43&point=ffffff&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="./metrics.achievements.svg" alt="GitHub Achievements" />
 </p>
-
-<details>
-<summary><b>🏆 GitHub Trophies</b> (click to expand)</summary>
-<br />
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omar00050&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-  </a>
-</p>
-</details>
 
 ---
 
@@ -115,11 +111,42 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" />
   </picture>
 </p>
+
+---
+
+## 🤖 Discord Bots I Build
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><h3>🎫</h3><b>Ticket Systems</b><br/><sub>Panels, transcripts, categories & staff roles</sub></td>
+<td align="center" width="25%"><h3>🛡️</h3><b>Moderation</b><br/><sub>Auto-mod, logs, warns & anti-spam</sub></td>
+<td align="center" width="25%"><h3>📊</h3><b>Web Dashboards</b><br/><sub>Manage your bot from the browser</sub></td>
+<td align="center" width="25%"><h3>⚙️</h3><b>Custom Systems</b><br/><sub>Economy, levels, giveaways & more</sub></td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://discord.com/users/768414261231747093"><img src="https://img.shields.io/badge/Need_a_bot%3F-Message_me_on_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=20232a" alt="Hire me for a Discord bot" /></a>
+</p>
+
+---
+
+## ⏱️ This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -127,10 +154,10 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 
 <p align="center">
   <a href="https://github.com/omar00050/DevXorHandler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omar00050&repo=REPO_NAME_1&theme=react&hide_border=true&bg_color=20232a&title_color=f22b43" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omar00050&repo=DevXorHandler&theme=react&hide_border=true&bg_color=20232a&title_color=f22b43" alt="DevXorHandler" />
   </a>
   <a href="https://github.com/omar00050/quran_radio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omar00050&repo=REPO_NAME_2&theme=react&hide_border=true&bg_color=20232a&title_color=f22b43" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omar00050&repo=quran_radio&theme=react&hide_border=true&bg_color=20232a&title_color=f22b43" alt="quran_radio" />
   </a>
 </p>
 
@@ -152,7 +179,7 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abofarghaly"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:omar.aly00050@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="mailto:omar@farghaly.dev"><img src="https://img.shields.io/badge/Email-f22b43?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://discord.com/users/768414261231747093"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://twitter.com/FarghOmar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/farghaly00050/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
