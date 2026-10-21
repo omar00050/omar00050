@@ -52,30 +52,34 @@ I'm **Omar**, a **23-year-old Full-Stack Developer** from **Egypt 🇪🇬** foc
 
 ## 🧰 Tech Stack
 
-<h4 align="center">Languages & Runtime</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,cs,powershell&perline=8" alt="Languages" />
-</p>
-
-<h4 align="center">Frontend</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,next,tailwind,bootstrap,materialui,webpack&perline=8" alt="Frontend" />
-</p>
-
-<h4 align="center">Backend & Databases</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=express,mysql,sqlite,mongodb,prisma,sequelize&perline=8" alt="Backend" />
-</p>
-
-<h4 align="center">DevOps & Cloud</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,git,github,githubactions,gcp,cloudflare,npm,pnpm,maven&perline=11" alt="DevOps" />
-</p>
-
-<h4 align="center">Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,discord,photoshop,premiere,stackoverflow,codepen,replit&perline=9" alt="Tools" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <b>💻 Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,cs,powershell&perline=6" alt="Languages" />
+</td>
+<td align="center" width="50%">
+  <b>🗄️ Backend & Databases</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=express,mysql,sqlite,mongodb,prisma,sequelize&perline=6" alt="Backend & Databases" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <b>🎨 Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,next,vue,tailwind,bootstrap,materialui,electron,webpack&perline=5" alt="Frontend" />
+</td>
+<td align="center">
+  <b>🛠️ Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,discord,photoshop,premiere,stackoverflow,codepen,replit&perline=5" alt="Tools" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+  <b>☁️ DevOps & Cloud</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,bash,nginx,git,github,githubactions,gcp,cloudflare,npm,pnpm,maven&perline=7" alt="DevOps & Cloud" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -103,58 +107,6 @@ I'm **Omar**, a **23-year-old Full-Stack Developer** from **Egypt 🇪🇬** foc
 <h3 align="center">📈 My Coding Habits</h3>
 
 <!--START_SECTION:habits-->
-**🐱 My GitHub Data** 
-
-> 📦 365.7 kB Used in GitHub's Storage 
- > 
-> 🏆 364 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 22 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-🌆 Daytime                91 commits          ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-🌃 Evening                116 commits         ████████░░░░░░░░░░░░░░░░░   30.85 % 
-🌙 Night                  76 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   90 commits          ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Tuesday                  56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Wednesday                87 commits          ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Thursday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Friday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Saturday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Sunday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Cairo
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Batchfile                2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-
-
-
-
- Last Updated on 21/10/2026 18:09:05 UTC
 <!--END_SECTION:habits-->
 
 ---
@@ -192,15 +144,6 @@ Batchfile                2 repos             ████░░░░░░░�
 ## ⏱️ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 13 October 2026 - To: 20 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -235,11 +178,6 @@ No activity tracked
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [MinaSaad1/pbi-cli](https://github.com/MinaSaad1/pbi-cli) <sub>· Oct 15</sub>
-2. ⭐ Starred [good-db/good.db](https://github.com/good-db/good.db) <sub>· Oct 9</sub>
-3. ⭐ Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) <sub>· Oct 6</sub>
-4. 🍴 Forked [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) <sub>· Sep 26</sub>
-5. 🍴 Forked [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) <sub>· Sep 26</sub>
 <!--END_SECTION:activity-->
 
 ---
