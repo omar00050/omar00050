@@ -139,16 +139,34 @@ I'm **Omar**, a **23-year-old Full-Stack Web Developer** from **Egypt 🇪🇬**
 ## ⏱️ This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 13 October 2026 - To: 20 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
+---
+
+## 🔥 What I'm Working On
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <h3>⚙️</h3>
+  <b>DevXor-v5</b><br/>
+  <sub>The next version of DevXor — currently in active development</sub><br/><br/>
+  <img src="https://img.shields.io/badge/Status-In_Progress-f22b43?style=flat-square&labelColor=20232a" alt="In progress" />
+</td>
+<td align="center" width="33%">
+  <h3>🧩</h3>
+  <b><a href="https://github.com/omar00050/DevXorHandler">DevXorHandler</a></b><br/>
+  <sub>Command & event handler for Discord bots</sub><br/><br/>
+  <img src="https://img.shields.io/badge/Status-Maintained-2ea44f?style=flat-square&labelColor=20232a" alt="Maintained" />
+</td>
+<td align="center" width="33%">
+  <h3>📻</h3>
+  <b><a href="https://github.com/omar00050/quran_radio">quran_radio</a></b><br/>
+  <sub>Quran radio streaming project</sub><br/><br/>
+  <img src="https://img.shields.io/badge/Status-Live-2ea44f?style=flat-square&labelColor=20232a" alt="Live" />
+</td>
+</tr>
+</table>
 
 ---
 
