@@ -239,8 +239,9 @@ Markdown   4 mins                ███████████████�
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🌿 Created branch `main` in [omar00050/errpage](https://github.com/omar00050/errpage) <sub>· Oct 22</sub>
-2. ⬆️ Pushed to [omar00050/DevXorHandler](https://github.com/omar00050/DevXorHandler) <sub>· Oct 21</sub>
+1. ⬆️ Pushed to [omar00050/errpage](https://github.com/omar00050/errpage) <sub>· Oct 22</sub>
+2. 🌿 Created branch `main` in [omar00050/errpage](https://github.com/omar00050/errpage) <sub>· Oct 22</sub>
+3. ⬆️ Pushed to [omar00050/DevXorHandler](https://github.com/omar00050/DevXorHandler) <sub>· Oct 21</sub>
 <!--END_SECTION:activity-->
 
 ---
