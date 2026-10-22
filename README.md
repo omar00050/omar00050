@@ -239,11 +239,7 @@ Markdown   4 mins                ███████████████�
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [MinaSaad1/pbi-cli](https://github.com/MinaSaad1/pbi-cli) <sub>· Oct 15</sub>
-2. ⭐ Starred [good-db/good.db](https://github.com/good-db/good.db) <sub>· Oct 9</sub>
-3. ⭐ Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) <sub>· Oct 6</sub>
-4. 🍴 Forked [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) <sub>· Sep 26</sub>
-5. 🍴 Forked [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) <sub>· Sep 26</sub>
+_No recent public activity._
 <!--END_SECTION:activity-->
 
 ---
