@@ -240,7 +240,6 @@ Markdown   4 mins                ███████████████�
 
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed to [omar00050/errpage](https://github.com/omar00050/errpage) <sub>· Oct 22</sub>
-2. 🌿 Created branch `main` in [omar00050/errpage](https://github.com/omar00050/errpage) <sub>· Oct 22</sub>
 <!--END_SECTION:activity-->
 
 ---
