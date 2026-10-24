@@ -119,6 +119,33 @@ I'm **Omar**, a **23-year-old Full-Stack Developer** from **Egypt 🇪🇬** foc
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+🌆 Daytime                91 commits          ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+🌃 Evening                122 commits         ████████░░░░░░░░░░░░░░░░░   31.94 % 
+🌙 Night                  76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   90 commits          ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+Tuesday                  56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Wednesday                89 commits          ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Thursday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Friday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Saturday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Sunday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Cairo
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -131,7 +158,7 @@ Batchfile                2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:00:54 UTC
+ Last Updated on 24/10/2026 05:32:21 UTC
 <!--END_SECTION:habits-->
 
 ---
