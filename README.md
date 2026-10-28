@@ -244,7 +244,9 @@ Prisma       15 mins               █▒░░░░░░░░░░░░░
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-_No recent public activity._
+1. 🍴 Forked [MinaSaad1/pbi-cli](https://github.com/MinaSaad1/pbi-cli) <sub>· Oct 15</sub>
+2. ⭐ Starred [good-db/good.db](https://github.com/good-db/good.db) <sub>· Oct 9</sub>
+3. ⭐ Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) <sub>· Oct 6</sub>
 <!--END_SECTION:activity-->
 
 ---
