@@ -246,8 +246,6 @@ Other        10 mins               █▓░░░░░░░░░░░░░
 <!--START_SECTION:activity-->
 1. 💪 Merged PR [#8](https://github.com/omar00050/quran_radio/pull/8) in [omar00050/quran_radio](https://github.com/omar00050/quran_radio) <sub>· Oct 31</sub>
 2. 💪 Opened PR [#8](https://github.com/omar00050/quran_radio/pull/8) in [omar00050/quran_radio](https://github.com/omar00050/quran_radio) <sub>· Oct 31</sub>
-3. 💪 Merged PR [#7](https://github.com/omar00050/quran_radio/pull/7) in [omar00050/quran_radio](https://github.com/omar00050/quran_radio) <sub>· Oct 31</sub>
-4. 💪 Opened PR [#7](https://github.com/omar00050/quran_radio/pull/7) in [omar00050/quran_radio](https://github.com/omar00050/quran_radio) <sub>· Oct 31</sub>
 <!--END_SECTION:activity-->
 
 ---
