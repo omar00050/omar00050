@@ -247,7 +247,6 @@ Other        10 mins               █▓░░░░░░░░░░░░░
 1. 💪 Merged PR [#7](https://github.com/omar00050/quran_radio/pull/7) in [omar00050/quran_radio](https://github.com/omar00050/quran_radio) <sub>· Oct 31</sub>
 2. 💪 Opened PR [#7](https://github.com/omar00050/quran_radio/pull/7) in [omar00050/quran_radio](https://github.com/omar00050/quran_radio) <sub>· Oct 31</sub>
 3. 🍴 Forked [UserJoo9/QuotaManager](https://github.com/UserJoo9/QuotaManager) <sub>· Oct 31</sub>
-4. ⭐ Starred [UserJoo9/QuotaManager](https://github.com/UserJoo9/QuotaManager) <sub>· Oct 31</sub>
 <!--END_SECTION:activity-->
 
 ---
