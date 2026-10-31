@@ -244,7 +244,8 @@ Other        10 mins               █▓░░░░░░░░░░░░░
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-_No recent public activity._
+1. 🍴 Forked [UserJoo9/QuotaManager](https://github.com/UserJoo9/QuotaManager) <sub>· Oct 31</sub>
+2. ⭐ Starred [UserJoo9/QuotaManager](https://github.com/UserJoo9/QuotaManager) <sub>· Oct 31</sub>
 <!--END_SECTION:activity-->
 
 ---
