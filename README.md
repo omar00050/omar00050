@@ -244,8 +244,7 @@ Other        10 mins               █▓░░░░░░░░░░░░░
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Merged PR [#8](https://github.com/omar00050/quran_radio/pull/8) in [omar00050/quran_radio](https://github.com/omar00050/quran_radio) <sub>· Oct 31</sub>
-2. 💪 Opened PR [#8](https://github.com/omar00050/quran_radio/pull/8) in [omar00050/quran_radio](https://github.com/omar00050/quran_radio) <sub>· Oct 31</sub>
+_No recent public activity._
 <!--END_SECTION:activity-->
 
 ---
