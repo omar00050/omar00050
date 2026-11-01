@@ -198,16 +198,16 @@ Batchfile                2 repos             ███░░░░░░░░�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2026 - To: 30 October 2026
+From: 24 October 2026 - To: 31 October 2026
 
-Total Time: 2 hrs 31 mins
+Total Time: 6 hrs 35 mins
 
-JavaScript   1 hr 15 mins          ███████████▓░░░░░░░░░░░░░   46.37 %
-TypeScript   16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Bash         16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-EJS          14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-JSON         10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Other        10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+JavaScript   3 hrs 23 mins         ████████████▓░░░░░░░░░░░░   50.27 %
+JSON         52 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+TypeScript   48 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+Bash         32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Markdown     29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+EJS          13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
