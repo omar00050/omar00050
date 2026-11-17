@@ -245,11 +245,11 @@ EJS          13 mins               █░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
-2. 💪 Merged PR [#1](https://github.com/omar00050/easy-devops/pull/1) in [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
-3. 💪 Opened PR [#1](https://github.com/omar00050/easy-devops/pull/1) in [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
-4. 🍴 Forked [morluto/rea](https://github.com/morluto/rea) <sub>· Nov 15</sub>
-5. ⭐ Starred [morluto/rea](https://github.com/morluto/rea) <sub>· Nov 15</sub>
-6. ⭐ Starred [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) <sub>· Nov 14</sub>
+2. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 16</sub>
+3. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
+4. 💪 Merged PR [#1](https://github.com/omar00050/easy-devops/pull/1) in [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
+5. 💪 Opened PR [#1](https://github.com/omar00050/easy-devops/pull/1) in [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
+6. 🍴 Forked [morluto/rea](https://github.com/morluto/rea) <sub>· Nov 15</sub>
 <!--END_SECTION:activity-->
 
 ---
