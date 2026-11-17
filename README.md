@@ -247,9 +247,9 @@ EJS          13 mins               █░░░░░░░░░░░░░░
 1. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
 2. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 16</sub>
 3. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
-4. 💪 Merged PR [#1](https://github.com/omar00050/easy-devops/pull/1) in [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
-5. 💪 Opened PR [#1](https://github.com/omar00050/easy-devops/pull/1) in [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
-6. 🍴 Forked [morluto/rea](https://github.com/morluto/rea) <sub>· Nov 15</sub>
+4. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 16</sub>
+5. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
+6. 💪 Merged PR [#1](https://github.com/omar00050/easy-devops/pull/1) in [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
 <!--END_SECTION:activity-->
 
 ---
