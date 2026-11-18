@@ -245,11 +245,11 @@ EJS          13 mins               █░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 17</sub>
-2. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 16</sub>
-3. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
-4. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 16</sub>
-5. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
-6. 💪 Merged PR [#1](https://github.com/omar00050/easy-devops/pull/1) in [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 16</sub>
+2. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 17</sub>
+3. 🍴 Forked [amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) <sub>· Nov 18</sub>
+4. ⭐ Starred [amElnagdy/delegate-skills](https://github.com/amElnagdy/delegate-skills) <sub>· Nov 18</sub>
+5. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 17</sub>
+6. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 16</sub>
 <!--END_SECTION:activity-->
 
 ---
