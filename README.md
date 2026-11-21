@@ -244,12 +244,12 @@ EJS          13 mins               █░░░░░░░░░░░░░░
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 20</sub>
-2. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 19</sub>
-3. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 18</sub>
-4. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 17</sub>
-5. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 17</sub>
-6. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 17</sub>
+1. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 19</sub>
+2. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 20</sub>
+3. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 19</sub>
+4. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 18</sub>
+5. ⬆️ Pushed to [omar00050/easy-devops](https://github.com/omar00050/easy-devops) <sub>· Nov 17</sub>
+6. ⬆️ Pushed to [omar00050/easy-devops-docs](https://github.com/omar00050/easy-devops-docs) <sub>· Nov 17</sub>
 <!--END_SECTION:activity-->
 
 ---
